@@ -21,15 +21,31 @@ E --> F[部署与优化]
 F --> G[面试准备 & 项目实战]
 ```
 
-## 📘 基础知识与必备技能
+## 🧩 学习教程
 
-## 🧩 应用开发核心模块
+## 全套学习教程
 
-## 🧠 工具与框架
+- [Hello Agents](https://datawhalechina.github.io/hello-agents/)
+- [All in Rag](https://datawhalechina.github.io/all-in-rag/)
+
+### 入门-LLM 基础、Prompt、API 调用
+
+### 进阶-LangChain / RAG / Vector DB
+
+- [LangChain](https://github.com/langchain-ai/langchain)
+- [llama_index](https://github.com/run-llama/llama_index)
+- [chroma](https://github.com/chroma-core/chroma)
+- [fastapi](https://github.com/tiangolo/fastapi)
+
+### 实践-构建完整 AI 应用
+
+## 🧰 经典入门案例
+
+- [50行Python代码实现Rag应用](https://github.com/summerjava/LLM-App-Dev-4CRUDer/tree/main/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91-%E7%BB%8F%E5%85%B8%E5%85%A5%E9%97%A8%E6%A1%88%E4%BE%8B/50%E8%A1%8CPython%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0Rag%E5%BA%94%E7%94%A8)
 
 ## 💡 开源项目精选
 
-## 🧰 开发者资源
+- [ChatBot UI](https://github.com/mckaywrigley/chatbot-ui)
 
 ## 🎯 职业发展  
 
