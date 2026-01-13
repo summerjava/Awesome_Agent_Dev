@@ -67,6 +67,19 @@ F --> G[面试准备 & 项目实战]
 
 - [大模型工程师八股文](https://github.com/summerjava/LLM-App-Dev-4CRUDer/blob/main/%E9%9D%A2%E8%AF%95%E4%B8%8E%E8%81%8C%E4%B8%9A%E5%8F%91%E5%B1%95/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%85%AB%E8%82%A1%E6%96%87.md)
 
+## 前沿Agent工具
+
+### Cloude Code
+
+- [OpenCode中文实战课](https://learnopencode.com/)
+
+### Skills
+
+- [OAnthropic官方Skills](https://github.com/anthropics/skills)
+- [Superpowers](https://github.com/obra/superpowers)
+- [Planning-with-files](https://github.com/OthmanAdi/planning-with-files)
+- [Planning-with-files](https://github.com/OthmanAdi/planning-with-files)
+
 ---
 
 **如果需要一对一的大模型应用开发（AI Agent开发）的学习路线规划、项目带做、简历修改、面试辅导可以联系我哦：【meta1101】**  
