@@ -140,3 +140,7 @@ F --> G[面试准备 & 项目实战]
 
 欢迎贡献资源、学习路线或开源项目链接！  
 请提交 PR 或在 Issues 中推荐你认为值得加入的内容 🙌
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=summerjava/Awesome_Agent_Dev&type=date&legend=top-left)](https://www.star-history.com/#summerjava/Awesome_Agent_Dev&type=date&legend=top-left)
