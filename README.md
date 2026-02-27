@@ -52,6 +52,8 @@ F --> G[面试准备 & 项目实战]
 ### 入门-Prompt提示词工程
 
 - [Calude文档-提示词工程](platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview)
+- [高效提示词（prompt）工程指南_ByteByteGo](https://blog.bytebytego.com/p/a-guide-to-effective-prompt-engineering)
+- [高效提示词（prompt）工程指南中文版_ByteByteGo](https://zhuanlan.zhihu.com/p/2008874707131340174)
 
 ### 进阶-LangChain / RAG / Vector DB
 
