@@ -102,6 +102,10 @@ F --> G[面试准备 & 项目实战]
 - [Opencode官方文档](https://opencode.ai/docs/zh-cn/)
 - [OpenCode中文实战课](https://learnopencode.com/)
 
+## Agent开发工业界落地案例
+
+- [基于AI大模型的故障诊断与根因分析落地实现](https://mp.weixin.qq.com/s/AYenvVpB-oHWabJFbkUpmg)
+
 ## 热门AI工具
 
 - [开源项目阅读利器-DeepWiki](https://deepwiki.com/)
@@ -122,6 +126,12 @@ F --> G[面试准备 & 项目实战]
 ---
 
 **如果需要一对一的大模型应用开发（AI Agent开发）的学习路线规划、项目带做、简历修改、面试辅导可以联系我哦：【meta1101】**  
+
+辅导案例：
+
+![1](https://github.com/summerjava/Awesome_Agent_Dev/blob/main/%E9%9D%A2%E8%AF%95%E4%B8%8E%E8%81%8C%E4%B8%9A%E5%8F%91%E5%B1%95/agent_offer_case/case1.jpg)
+![2](https://github.com/summerjava/Awesome_Agent_Dev/blob/main/%E9%9D%A2%E8%AF%95%E4%B8%8E%E8%81%8C%E4%B8%9A%E5%8F%91%E5%B1%95/agent_offer_case/case2.jpg)
+
 ![个人wx](https://github.com/summerjava/awosome-cs/blob/main/%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.jpg)
 
 ## 📈 贡献与社区
