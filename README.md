@@ -34,6 +34,7 @@ F --> G[面试准备 & 项目实战]
 - [All in Rag_DataWhale社区](https://datawhalechina.github.io/all-in-rag/)
 - [大模型应用开发_DataWhale社区](https://github.com/datawhalechina/llm-universe)
 - [ai-agents-for-beginners_微软](https://github.com/microsoft/ai-agents-for-beginners)
+- ![优质Agent系列课程](https://github.com/summerjava/Awesome_Agent_Dev/blob/main/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91-%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/%E7%B3%BB%E5%88%97%E8%AF%BE%E7%A8%8B/%E3%80%8A%E8%BD%AC%E5%9E%8BAI%E5%B7%A5%E7%A8%8B%E5%B8%88%E3%80%8B%E8%AF%BE%E7%A8%8B%E6%B5%B7%E6%8A%A5.png)
 
 ### 经典书籍
 
