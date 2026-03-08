@@ -93,7 +93,7 @@ F --> G[面试准备 & 项目实战]
 ## 优秀开源项目
 
 ### OpenClaw🦞
-
+- [如何一键部署并使用云端OpenClaw](https://www.zhihu.com/question/2009611085918013365/answer/2011563780694365542)
 - [阿里云-部署OpenClaw（原Moltbot、Clawdbot）镜像](https://help.aliyun.com/zh/simple-application-server/use-cases/quickly-deploy-and-use-openclaw?spm=a2c4g.11186623.0.i3)
 - [Youtube视频-OpenClaw Full Tutorial for Beginners – How to Set Up and Use OpenClaw (ClawdBot / MoltBot)](https://www.youtube.com/watch?v=n1sfrc-RjyM)
 
