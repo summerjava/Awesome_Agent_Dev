@@ -100,9 +100,14 @@ Skills资源
 
 这里是几个案例。（有需要一对一Agent开发简历修改的朋友可以从后面的WX二维码找我。）
 
-- ![SRE Agent](https://github.com/summerjava/Awesome_Agent_Dev/blob/main/imgs/resume_proj_1.png)
-- ![Agent Flow编排系统](https://github.com/summerjava/Awesome_Agent_Dev/blob/main/imgs/resume_proj_2.png)
-- ![基于RAG的知识库](https://github.com/summerjava/Awesome_Agent_Dev/blob/main/imgs/resume_proj_3.png)
+（1）智能SRE Agent  
+![SRE Agent](https://github.com/summerjava/Awesome_Agent_Dev/blob/main/imgs/resume_proj_1.png)
+
+（2）Agent flow编排系统  
+![Agent Flow编排系统](https://github.com/summerjava/Awesome_Agent_Dev/blob/main/imgs/resume_proj_2.png)
+
+（3）基于Rag的企业级知识库  
+![基于RAG的知识库](https://github.com/summerjava/Awesome_Agent_Dev/blob/main/imgs/resume_proj_3.png)
 
 ## 🎯 面试
 
