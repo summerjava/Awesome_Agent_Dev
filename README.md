@@ -115,7 +115,9 @@ Skills资源
 
 笔者亲自参加面试获得的一手面经，可以联系获取。
 
+```
  【小红书】大模型开发面经真题集锦 😆 5rNi50ruki4 😆 https://xhslink.com/m/48kiYopNbjC 点击链接或者复制本条信息打开【小红书app】查看 MU5199
+```
 
 - ![](https://github.com/summerjava/Awesome_Agent_Dev/blob/main/imgs/agent_baguwen_1.png)
 - ![](https://github.com/summerjava/Awesome_Agent_Dev/blob/main/imgs/agent_baguwen_2.jpg)
