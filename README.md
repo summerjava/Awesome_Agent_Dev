@@ -67,11 +67,17 @@ F --> G[面试准备 & 项目实战]
 - [17+ agentic架构代码实现](https://github.com/FareedKhan-dev/all-agentic-architectures/tree/main)
 
 ### Skills
+Skills教程
 
+- [从零开始玩转OpenClaw](https://github.com/xianyu110/awesome-openclaw-tutorial)
 - [OAnthropic官方Skills](https://github.com/anthropics/skills)
 - [Superpowers](https://github.com/obra/superpowers)
 - [Planning-with-files](https://github.com/OthmanAdi/planning-with-files)
-- [Planning-with-files](https://github.com/OthmanAdi/planning-with-files)
+
+Skills资源
+
+- [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)
+- [Skills资源-小红书等图片生成](https://github.com/JimLiu/baoyu-skills)
 
 ### Vibe-Coding
 
@@ -86,9 +92,29 @@ F --> G[面试准备 & 项目实战]
 - [AI时代的技术抉择：后端开发 vs. 大模型应用开发](https://github.com/summerjava/LLM-App-Dev-4CRUDer/blob/main/%E9%9D%A2%E8%AF%95%E4%B8%8E%E8%81%8C%E4%B8%9A%E5%8F%91%E5%B1%95/AI%E6%97%B6%E4%BB%A3%E7%9A%84%E6%8A%80%E6%9C%AF%E6%8A%89%E6%8B%A9%EF%BC%9A%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%20vs.%20%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91.md)
 - [计算机专业想做大模型应用开发，该如何规划](https://github.com/summerjava/LLM-App-Dev-4CRUDer/blob/main/%E9%9D%A2%E8%AF%95%E4%B8%8E%E8%81%8C%E4%B8%9A%E5%8F%91%E5%B1%95/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E6%83%B3%E5%81%9A%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%EF%BC%8C%E8%AF%A5%E5%A6%82%E4%BD%95%E8%A7%84%E5%88%92.md)
 
+## 可以写在简历的有企业级项目  
+企业级项目，有亮点、差异化。   
+什么样的项目才算企业级的项目？能写在简历上给面试官眼前一亮的感觉？
+
+好的AI Agent工程师要做到：了解大模型的基本原理(能运用、调优、诊断大模型问题)，知道怎么搭建Al Agent(从让Agent 做规划决策一>调用外部API和函数一>具有记忆一>如何监控Agent的性能)，能独立完成一个中等复杂度Web服务从开发、测试到部署、监控的全流程。关注如何处理模糊语义/做路由/反问获取精准问题/做适合于输入的知识管理，如何处理多轮对话和记忆，如何处理并发/长时延/兜底策略，如何做提示词/Agent的版本管理，如何兼容不同模型，如何评估评测Agent，效果相比之前版本有多大改善等等等。
+
+这里是几个案例。（有需要一对一Agent开发简历修改的朋友可以从后面的WX二维码找我。）
+
+- ![SRE Agent](https://github.com/summerjava/Awesome_Agent_Dev/blob/main/imgs/resume_proj_1.png)
+- ![Agent Flow编排系统](https://github.com/summerjava/Awesome_Agent_Dev/blob/main/imgs/resume_proj_2.png)
+- ![基于RAG的知识库](https://github.com/summerjava/Awesome_Agent_Dev/blob/main/imgs/resume_proj_3.png)
+
 ## 🎯 面试
 
-- [大模型工程师八股文](https://github.com/summerjava/LLM-App-Dev-4CRUDer/blob/main/%E9%9D%A2%E8%AF%95%E4%B8%8E%E8%81%8C%E4%B8%9A%E5%8F%91%E5%B1%95/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%85%AB%E8%82%A1%E6%96%87.md)
+### 八股文
+
+笔者亲自参加面试获得的一手面经，可以联系获取。
+
+ 【小红书】大模型开发面经真题集锦 😆 5rNi50ruki4 😆 https://xhslink.com/m/48kiYopNbjC 点击链接或者复制本条信息打开【小红书app】查看 MU5199
+
+- ![](https://github.com/summerjava/Awesome_Agent_Dev/blob/main/imgs/agent_baguwen_1.png)
+- ![](https://github.com/summerjava/Awesome_Agent_Dev/blob/main/imgs/agent_baguwen_2.jpg)
+- ![](https://github.com/summerjava/Awesome_Agent_Dev/blob/main/imgs/agent_baguwen_3.jpg)
 
 ## 优秀开源项目
 
