@@ -160,6 +160,8 @@ Skills资源
 ### Claude Code
 
 - [Claude官方文档-Agent SDK](https://platform.claude.com/docs/en/agent-sdk/overview)
+- [Claude Code最佳实践-github](https://github.com/shanraisshan/claude-code-best-practice)
+- [一小时教程-教你如何从零开始构建并自动化各种项目](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247721554&idx=1&sn=581eff5b5c6ee6f745928b82b6cd147b&chksm=e9f5740704f010ed3ee737d1bcb70782887a192011a7d9c30a97f5247e5c377fb4af2c42d4ed&mpshare=1&scene=24&srcid=0404CvlLEqOyoPhA2frQ9294&sharer_shareinfo=f5edd634529c275beb6d18a18a321342&sharer_shareinfo_first=f5edd634529c275beb6d18a18a321342#rd)
 
 ### SeeDance 2.0
 
