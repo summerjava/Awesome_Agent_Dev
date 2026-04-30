@@ -84,6 +84,7 @@ Skills资源
 ### Vibe-Coding
 
 - [首个系统化 Vibe Coding 开源教程](https://github.com/datawhalechina/vibe-vibe)
+- [Spec-Driven Development with Claude Code](https://agentfactory.panaversity.org/docs/General-Agents-Foundations/spec-driven-development)
 
 ## 🧰 经典入门案例
 
