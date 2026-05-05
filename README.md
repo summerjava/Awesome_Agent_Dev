@@ -34,6 +34,7 @@ F --> G[面试准备 & 项目实战]
 - [All in Rag_DataWhale社区](https://datawhalechina.github.io/all-in-rag/)
 - [大模型应用开发_DataWhale社区](https://github.com/datawhalechina/llm-universe)
 - [ai-agents-for-beginners_微软](https://github.com/microsoft/ai-agents-for-beginners)
+- [learn-claude-code-A nano claude code–like 「agent harness」, built from 0 to 1](https://github.com/shareAI-lab/learn-claude-code/tree/main)
 
 ### 经典书籍
 
@@ -81,8 +82,18 @@ Skills资源
 - [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)
 - [Skills资源-小红书等图片生成](https://github.com/JimLiu/baoyu-skills)
 
+### Agent评估
+
+- [Anthropic万字长文：一篇AI Agent评估体系的详细解析！](https://mp.weixin.qq.com/s/C2Vpvm662STIohvnLQQgIQ)
+- [使用 Ragas 进行评估](https://milvus.io/docs/zh/integrate_with_ragas.md)
+
+### Agent可观测性
+
+- [从 AI Agent 到模型推理：端到端 AI 可观测实践](https://zhuanlan.zhihu.com/p/1916169255818358957)
+
 ### Vibe-Coding
 
+- [成为真正的AI Native Coder，一个研究生实践6个月的思考！](https://mp.weixin.qq.com/s/xLgonEJ9cCH0LaLpw76_3g)
 - [首个系统化 Vibe Coding 开源教程](https://github.com/datawhalechina/vibe-vibe)
 - [Spec-Driven Development with Claude Code](https://agentfactory.panaversity.org/docs/General-Agents-Foundations/spec-driven-development)
 
@@ -113,28 +124,11 @@ Skills资源
 - 如何评估评测Agent，效果相比之前版本有多大改善等等等。
 ```
 
-这里是几个案例。（有需要一对一Agent开发简历修改的朋友可以从后面的WX二维码找我。）
-
-（1）智能SRE Agent  
-![SRE Agent](https://github.com/summerjava/Awesome_Agent_Dev/blob/main/imgs/resume_proj_1.png)
-
-（2）Agent flow编排系统  
-![Agent Flow编排系统](https://github.com/summerjava/Awesome_Agent_Dev/blob/main/imgs/resume_proj_2.png)
-
-（3）基于Rag的企业级知识库  
-![基于RAG的知识库](https://github.com/summerjava/Awesome_Agent_Dev/blob/main/imgs/resume_proj_3.png)
+有需要一对一Agent开发简历修改的朋友可以从后面的WX二维码找我。
 
 ## 🎯 面试
 
-### 八股文
 
-笔者亲自参加面试获得的一手面经，可以联系获取。
-
-```
- 【小红书】大模型开发面经真题集锦 😆 5rNi50ruki4 😆 https://xhslink.com/m/48kiYopNbjC 点击链接或者复制本条信息打开【小红书app】查看 MU5199
-```
-
-- ![](https://github.com/summerjava/Awesome_Agent_Dev/blob/main/imgs/agent_baguwen_5.png.jpg)
 
 ## 优秀开源项目
 
@@ -149,6 +143,10 @@ Skills资源
 
 - [Opencode官方文档](https://opencode.ai/docs/zh-cn/)
 - [OpenCode中文实战课](https://learnopencode.com/)
+
+### RAG
+
+- [TrustRAG](https://github.com/gomate-community/TrustRAG)
 
 ## Agent开发工业界落地案例
 
@@ -174,13 +172,6 @@ Skills资源
 - [Nano Banana 超完整攻略：一篇搞懂 Google 殺手級 AI 繪圖](https://blog.creatorhome.tw/nano-banana/)
 
 ## 优质专栏课程
-
-小龙虾🦞OpenClaw入门教程，特适合小白  
-关于OpenClaw（小🦞）非常适合小白的教程，不管是想探索副业做一人公司（OPC），还是想入门前沿AI工具，又或者是想提升学习工作的效率，都非常值得一学！  
-
-![适合小白的OpenClaw入门教程](https://github.com/summerjava/Awesome_Agent_Dev/blob/main/AI%E5%B7%A5%E5%85%B7/OpenClaw%E5%AE%9E%E6%88%98%E8%AE%AD%E7%BB%83%E8%90%A5.jpg)
-
----
 
 **如果需要一对一的大模型应用开发（AI Agent开发）的学习路线规划、项目带做、简历修改、面试辅导可以联系我哦：【meta1101】**  
 
