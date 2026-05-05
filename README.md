@@ -58,12 +58,27 @@ F --> G[面试准备 & 项目实战]
 - [高效提示词（prompt）工程指南_ByteByteGo](https://blog.bytebytego.com/p/a-guide-to-effective-prompt-engineering)
 - [高效提示词（prompt）工程指南中文版_ByteByteGo](https://zhuanlan.zhihu.com/p/2008874707131340174)
 
-### 进阶-LangChain / RAG / Vector DB
+### Python& FastAPI
+
+- [fastapi](https://github.com/tiangolo/fastapi)
+
+### 进阶-框架
 
 - [LangChain](https://github.com/langchain-ai/langchain)
+- [langGraph](https://github.com/langchain-ai/langgraph)
 - [llama_index](https://github.com/run-llama/llama_index)
+- [AutoGen](https://github.com/microsoft/autogen)
+- [CrewAI](https://github.com/crewaiinc/crewai)
+- [MetaGPT](https://github.com/FoundationAgents/MetaGPT)
+
+### RAG&向量数据库
+
+![imgs/](imgs/vector_db1.png)
+
+- [zilliz-深度干货|万字长文解读向量数据库的前世今生（先码后学）](https://zilliz.com.cn/blog/Deep-Dive-Into-Vector-Databases)
 - [chroma](https://github.com/chroma-core/chroma)
-- [fastapi](https://github.com/tiangolo/fastapi)
+- [Pinecone](https://www.pinecone.io/)
+- [faiss](https://github.com/facebookresearch/faiss)
 
 ### Agent架构实现/实战
 
@@ -132,21 +147,20 @@ Skills资源
 
 ## 优秀开源项目
 
-### OpenClaw🦞
+### 优质Agent开源项目
+
+- [OpenManus](https://github.com/FoundationAgents/OpenManus)
+- OpenCode：[Opencode官方文档](https://opencode.ai/docs/zh-cn/)、[OpenCode中文实战课](https://learnopencode.com/)
+
+### RAG相关
+
+- [TrustRAG](https://github.com/gomate-community/TrustRAG)
+
+### OpenClaw小龙虾🦞
+
 - [如何一键部署并使用云端OpenClaw](https://www.zhihu.com/question/2009611085918013365/answer/2011563780694365542)
 - [阿里云-部署OpenClaw（原Moltbot、Clawdbot）镜像](https://help.aliyun.com/zh/simple-application-server/use-cases/quickly-deploy-and-use-openclaw?spm=a2c4g.11186623.0.i3)
 - [Youtube视频-OpenClaw Full Tutorial for Beginners – How to Set Up and Use OpenClaw (ClawdBot / MoltBot)](https://www.youtube.com/watch?v=n1sfrc-RjyM)
-
-### OpenCode
-
-开源版ClaudeCode。
-
-- [Opencode官方文档](https://opencode.ai/docs/zh-cn/)
-- [OpenCode中文实战课](https://learnopencode.com/)
-
-### RAG
-
-- [TrustRAG](https://github.com/gomate-community/TrustRAG)
 
 ## Agent开发工业界落地案例
 
