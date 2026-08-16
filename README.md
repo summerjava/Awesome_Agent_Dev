@@ -99,6 +99,7 @@ Skills资源
 
 ### Agent评估
 
+- [Agent QA](https://github.com/vostride/agent-qa) - 源码可用的自改进 QA Agent，可通过自然语言执行 Web 与移动端测试，并提供持久测试记忆、CLI、Dashboard 和 MCP 服务.
 - [Anthropic万字长文：一篇AI Agent评估体系的详细解析！](https://mp.weixin.qq.com/s/C2Vpvm662STIohvnLQQgIQ)
 - [使用 Ragas 进行评估](https://milvus.io/docs/zh/integrate_with_ragas.md)
 
